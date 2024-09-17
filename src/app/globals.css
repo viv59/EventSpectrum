@@ -79,7 +79,7 @@
 
 body {
   font-family: var(--font-poppins);
-  cursor: url("/assets/icons/cursor.png") 12 12, auto;
+  /* cursor: url("/assets/icons/cursor.png") 12 12, auto; */
 }
 
 .filter-grey {
